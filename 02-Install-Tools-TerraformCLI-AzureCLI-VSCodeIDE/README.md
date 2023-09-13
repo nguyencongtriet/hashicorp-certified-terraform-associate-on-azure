@@ -91,7 +91,7 @@ az login
 az account list
 
 # Set Specific Subscription (if we have multiple subscriptions)
-az account set --subscription="SUBSCRIPTION_ID"
+az account set --subscription="2c14c60e-5e5e-4f81-a42b-662cfe3d1877"
 ```
 
 ## Step-06: Install Git Client
@@ -114,7 +114,7 @@ az login
 az account list
 
 # Set Specific Subscription (if we have multiple subscriptions)
-az account set --subscription="SUBSCRIPTION_ID"
+az account set --subscription="2c14c60e-5e5e-4f81-a42b-662cfe3d1877"
 ```
 
 ### Step-07-03: Install Terraform 
